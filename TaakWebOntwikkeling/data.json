@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "short_description": "Programmer",
+      "long_description": "A software developer with expertise in multiple programming languages and frameworks.",
+      "age": 30,
+      "is_active": true,
+      "birth_date": "1994-12-10",
+      "profile_image": "https://example.com/johndoe.jpg",
+      "status": "active",
+      "hobbies": ["reading", "programming", "gaming"],
+      "address": {
+        "id": 1,
+        "city": "San Francisco",
+        "country": "USA",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "short_description": "Marketing Manager",
+      "long_description": "A creative marketer with a track record of successful campaigns.",
+      "age": 28,
+      "is_active": true,
+      "birth_date": "1996-07-02",
+      "profile_image": "https://example.com/janesmith.jpg",
+      "status": "active",
+      "hobbies": ["travelling", "photography", "cooking"],
+      "address": {
+        "id": 2,
+        "city": "London",
+        "country": "UK",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      }
+    },
+    {
+      "id": 3,
+      "name": "Adam Smith",
+      "short_description": "Financial Analyst",
+      "long_description": "A finance expert with a knack for analyzing financial data.",
+      "age": 32,
+      "is_active": false,
+      "birth_date": "1990-03-15",
+      "profile_image": "https://example.com/adamsmith.jpg",
+      "status": "inactive",
+      "hobbies": ["sailing", "tennis", "wine tasting"],
+      "address": {
+        "id": 3,
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      }
+    },
+    {
+      "id": 4,
+      "name": "Eva Martinez",
+      "short_description": "Teacher",
+      "long_description": "A dedicated educator with a passion for teaching.",
+      "age": 35,
+      "is_active": true,
+      "birth_date": "1989-09-23",
+      "profile_image": "https://example.com/evamartinez.jpg",
+      "status": "active",
+      "hobbies": ["painting", "cycling", "dancing"],
+      "address": {
+        "id": 4,
+        "city": "Madrid",
+        "country": "Spain",
+        "latitude": 40.4168,
+        "longitude": -3.7038
+      }
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "short_description": "Sales Executive",
+      "long_description": "An enthusiastic salesperson with a flair for negotiation.",
+      "age": 27,
+      "is_active": true,
+      "birth_date": "1997-05-20",
+      "profile_image": "https://example.com/michaelbrown.jpg",
+      "status": "active",
+      "hobbies": ["hiking", "gardening", "music"],
+      "address": {
+        "id": 5,
+        "city": "New York",
+        "country": "USA",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mario Jackson",
+      "short_description": "Graphic Designer",
+      "long_description": "An imaginative designer with an eye for detail.",
+      "age": 26,
+      "is_active": true,
+      "birth_date": "1998-11-05",
+      "profile_image": "https://example.com/lilyjohnson.jpg",
+      "status": "active",
+      "hobbies": ["sketching", "yoga", "reading"],
+      "address": {
+        "id": 6,
+        "city": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.6895,
+        "longitude": 139.6917
+      }
+    },
+    {
+      "id": 7,
+      "name": "Alyssa Janssens",
+      "short_description": "Software Engineer",
+      "long_description": "A software developer specializing in web technologies.",
+      "age": 31,
+      "is_active": true,
+      "birth_date": "1993-04-17",
+      "profile_image": "https://example.com/alexblack.jpg",
+      "status": "active",
+      "hobbies": ["skiing", "cooking", "travelling"],
+      "address": {
+        "id": 7,
+        "city": "Berlin",
+        "country": "Germany",
+        "latitude": 52.5200,
+        "longitude": 13.4050
+      }
+    },
+    {
+      "id": 8,
+      "name": "Lotte Den Boss",
+      "short_description": "Nurse",
+      "long_description": "A caring nurse dedicated to providing compassionate care.",
+      "age": 29,
+      "is_active": true,
+      "birth_date": "1995-12-03",
+      "profile_image": "https://example.com/emmawhite.jpg",
+      "status": "active",
+      "hobbies": ["volunteering", "photography", "reading"],
+      "address": {
+        "id": 8,
+        "city": "Paris",
+        "country": "France",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      }
+    },
+    {
+      "id": 9,
+      "name": "Marie Verhulst",
+      "short_description": "Architect",
+      "long_description": "A visionary architect known for creative and sustainable designs.",
+      "age": 34,
+      "is_active": true,
+      "birth_date": "1988-06-11",
+      "profile_image": "https://example.com/jameswilson.jpg",
+      "status": "active",
+      "hobbies": ["sailing", "painting", "music"],
+      "address": {
+        "id": 9,
+        "city": "Rome",
+        "country": "Italy",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jeroen Van Gught",
+      "short_description": "Doctor",
+      "long_description": "A compassionate doctor committed to providing the best care for patients.",
+      "age": 33,
+      "is_active": true,
+      "birth_date": "1989-02-25",
+      "profile_image": "https://example.com/sophialee.jpg",
+      "status": "active",
+      "hobbies": ["tennis", "reading", "travelling"],
+      "address": {
+        "id": 10,
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      }
+    }
+  ]
+  
